@@ -1,0 +1,4 @@
+passwords.dat
+/src/password_manager
+/.vscode
+.DS_Store
